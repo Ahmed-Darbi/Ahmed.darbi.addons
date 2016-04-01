@@ -1,2 +1,2 @@
-# Ahmed.darbi.addons
-(odoo)addons module
+# Ceci est le module de base pour gérer la comptabilité pour la Tunisie.
+(odoo)addons module: Comptabilité - Tunisienne By: S.T.industriels: Darbi Ahmed
