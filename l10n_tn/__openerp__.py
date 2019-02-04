@@ -3,8 +3,8 @@
 {
     "name" : "Comptabilité - Tunisienne",
     "version" : "1.0",
-    "author" : "S.T.industriels: Darbi Ahmed",
-    "website": "http://www.stindustriels.tn/",
+    "author" : "Darbi Ahmed",
+    "website": "",
     "category" : "Localization/Account Charts",
     "description": """
 Ceci est le module de base pour gérer la comptabilité pour la Tunisie .
